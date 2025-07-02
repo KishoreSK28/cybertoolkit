@@ -1,16 +1,35 @@
-# cybertoolkit
+# 🛡️ Flutter Cyber Toolkit
 
-A new Flutter project.
+A lightweight mobile toolkit for ethical hackers and cybersecurity enthusiasts — powered by Flutter.
 
-## Getting Started
+[![License](https://img.shields.io/github/license/yourusername/flutter-cyber-toolkit)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/yourusername/flutter-cyber-toolkit)](https://github.com/yourusername/flutter-cyber-toolkit/releases)
+[![Download APK](https://img.shields.io/badge/APK-Download-brightgreen)](https://github.com/yourusername/flutter-cyber-toolkit/releases/latest)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 About the App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The **Flutter Cyber Toolkit** is an open-source utility app designed to help students, penetration testers, and ethical hackers perform quick cybersecurity operations from mobile. It combines multiple tools into one sleek interface with a minimal, green-on-black terminal style.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+| Feature            | Description                                              |
+|--------------------|----------------------------------------------------------|
+| 🔐 Hash Generator  | Generate hashes (MD5, SHA-1, SHA-256) from any text      |
+| 🌐 DNS Resolver    | Query domain DNS records like A, MX, TXT, and NS         |
+| 🔍 URL Scanner     | Extract and list all URLs from a given website           |
+| 📶 Port Scanner    | Scan open TCP ports on a given host *(coming soon)*      |
+| ✅ Firebase Auth   | Login/Signup with email verification                     |
+| 🧠 Easy UX         | Clean UI with clear navigation and validation            |
+
+---
+
+## 📥 Download
+
+👉 **[Download APK](https://github.com/KishoreSK28/cybertoolkit/releases/download/cybersecurity/app-release.apk)**  
+*(Supports Android 6.0+ — install manually after enabling “Install from Unknown Sources”)*
+
+---
