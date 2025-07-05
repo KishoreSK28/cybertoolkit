@@ -2,9 +2,10 @@
 
 A lightweight mobile toolkit for ethical hackers and cybersecurity enthusiasts — powered by Flutter.
 
-[![License](https://img.shields.io/github/license/yourusername/flutter-cyber-toolkit)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/yourusername/flutter-cyber-toolkit)](https://github.com/yourusername/flutter-cyber-toolkit/releases)
-[![Download APK](https://img.shields.io/badge/APK-Download-brightgreen)](https://github.com/yourusername/flutter-cyber-toolkit/releases/latest)
+![Flutter](https://img.shields.io/badge/Flutter-3.10-blue)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ---
 
