@@ -23,7 +23,6 @@ The **Flutter Cyber Toolkit** is an open-source utility app designed to help stu
 | 🌐 DNS Resolver    | Query domain DNS records like A, MX, TXT, and NS         |
 | 🔍 URL Scanner     | Extract and list all URLs from a given website           |
 | 📶 Port Scanner    | Scan open TCP ports on a given host *(coming soon)*      |
-| ✅ Firebase Auth   | Login/Signup with email verification                     |
 | 🧠 Easy UX         | Clean UI with clear navigation and validation            |
 
 ---
